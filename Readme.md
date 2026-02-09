@@ -10,6 +10,7 @@
   - ``` pip install -r requirements.txt ```
 ### Running the Server
 - ``` python3 meshgptultimate.py ```
+  - To stop the server use CTRL-C. 
 
 ### Running at Boot
 
