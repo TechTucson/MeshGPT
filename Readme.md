@@ -1,3 +1,6 @@
+## About
+MeshGPTUltimate is an AI Meshtastic Chatbot running locally on edge computing hardware.
+
 ## How to Install 
 
 ### Installing  (Ubuntu Specific)
