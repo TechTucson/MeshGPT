@@ -1,8 +1,8 @@
 ## How to Install 
 
 ### Installing  (Ubuntu Specific)
-- ```mkdir projects
-  cd projects```
+- ```mkdir projects ```
+- ```cd projects```
   - git clone [https://](https://github.com/CadenMW/MeshGPT.git)
   -cd MeshGPT
   - ``` python -m venv venv```
